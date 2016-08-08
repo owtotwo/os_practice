@@ -1,2 +1,9 @@
 # os_practice
-Some file about the operating system for practice.
+Some files about the operating system for practice.
+
+---
+* Dependency:  
+	+ grub2
+	+ nasm
+	+ gcc
+	+ qemu
